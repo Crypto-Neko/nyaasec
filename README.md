@@ -22,4 +22,4 @@ You can run the .py file directly from the commandline on any supported Linux di
 
 ### Contact
 
-If you want to ask me a question about the program, you can submit an issue here on GitHub. If you want to ask something privately, you can contact me on my Discord account with the username `crypto.kitty`.
+If you want to ask me a question about the program, you can submit an issue here on GitHub. If you want to ask something privately, you can contact me on my Discord account with the username `algebraity`.
